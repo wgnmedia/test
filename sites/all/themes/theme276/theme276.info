@@ -1,0 +1,18 @@
+; $Id: theme276.info,v 1.4 Glenn Exp $
+name = theme276
+description = this template is made by template-help.com.
+version = 6.13
+core = 6.x
+engine = phptemplate
+
+version = "6.13"
+project = "drupal"
+datestamp = "1202913006"
+
+php = DRUPAL_MINIMUM_PHP
+
+regions[left] = Left sidebar
+regions[right] = Right sidebar
+regions[content] = content
+regions[footer] = Footer
+regions[custom] = Custom
